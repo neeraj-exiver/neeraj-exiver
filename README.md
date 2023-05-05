@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @neeraj-exiver
+- 👋 Hi, I’m @neeraj-sharma
 - 👀 I’m currently woring in ExiverLabs
 
 <!---
